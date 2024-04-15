@@ -1,3 +1,3 @@
 # Capstone-Presentation-for-Data-Science
 
-This space contains the files for Nam Hyuk KIM's capstone project of IBM Data Science Professional Certificate
+This repository contains the files for Nam Hyuk KIM's capstone project of IBM Data Science Professional Certificate
